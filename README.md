@@ -26,14 +26,6 @@
 | [CodeShare](#) | Real-time code editor with Socket.io | React, Socket.io |
 | [eShop](#) | E-commerce app with payments | React, Node, Stripe |
 
-*(You can link your live projects or GitHub repos later)*
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshurawat-dev&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 🔗 Let's Connect

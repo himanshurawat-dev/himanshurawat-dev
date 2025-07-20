@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Himanshu Rawat
 
-<!--
-**himanshurawat-dev/himanshurawat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN Stack Enthusiast  
+🌐 Passionate about building scalable web apps and clean UI  
+🛠️ Tech Stack: React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Jobify** – Job tracking app (React + Node)
+- **CodeShare** – Real-time code editor (Socket.io + React)
+- **eShop** – E-commerce full stack app (Redux + Stripe + MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+📧 Email: 1091himanshurawat@gmail.com  
+📍 New Delhi, India
